@@ -1,6 +1,6 @@
-class Conta():
-    def __init__(self, numero, titular, saldo, limite = 1000.0):
-        self.__numero = numero
+class Conta(): #classe Conta
+    def __init__(self, numero, titular, saldo, limite = 1000.0): #aqui seria o nosso construtor
+        self.__numero = numero #__ para atributos privados
         self.__titular = titular
         self.__saldo = saldo
         self.__limite = limite
