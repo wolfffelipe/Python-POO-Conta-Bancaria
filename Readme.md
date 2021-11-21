@@ -1,1 +1,3 @@
-Projeto ensinando a usar Python Orientado a Objeto
+# Conta Bancária
+
+Projeto básico com comentários ensinando a estrutura de Python Orientado a Objeto.
